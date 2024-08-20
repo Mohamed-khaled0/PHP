@@ -11,25 +11,3 @@
     <div><?php echo 'Elzero Channel'?></div>
   </body>
 </html>
-
-<?php 
-# echo 'Prevent Me From Running Please';
-/* echo 'Prevent Me From Running Please'; */
-// echo 'Prevent Me From Running Please';
-
-
-
-
-/* My Application
- Version 1.0
- Created By Elzero
-*/
-
-
-// ## First Comment
-# // # Second Comment
-/* /* /* Third Comment */
-////// Fourth Comment   Wrong 
-?>
-
-
