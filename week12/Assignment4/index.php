@@ -4,43 +4,26 @@
 
 /* 
 Needed Output
-Array
-(
-  [257] => int
-  [258] => boolean
-  [259] => float
-  [272] => validate_regexp
-  [277] => validate_domain
-  [273] => validate_url
-  [274] => validate_email
-  [275] => validate_ip
-  [276] => validate_mac
-  [513] => stripped
-  [514] => encoded
-  [515] => special_chars
-  [522] => full_special_chars
-  [516] => unsafe_raw
-  [517] => email
-  [518] => url
-  [519] => number_int
-  [520] => number_float
-  [523] => add_slashes
-  [1024] => callback
-)
+"From Epoch Time Till 1990-10-01 Is Approximately 7578 Days"
+"From Epoch Time Till 1990-10-01 Is Approximately 20 Years"
 
 */
 
-$filters = filter_list();
+date_default_timezone_set('Africa/Cairo');
 
-$filter_with_ids = [];
+// Given date
+$date = "1990-10-01";
 
-foreach ($filters as $filter) {
-    $filter_id = filter_id($filter);
-    
-    $filter_with_ids[$filter_id] = $filter;
-}
+$epochDate = new DateTime('1970-01-01');
+$givenDate = new DateTime($date);
 
-echo '<pre>';
-print_r($filter_with_ids);
-echo '</pre>';
+$diff = $epochDate->diff($givenDate);
 
+$totalDays = $epochDate->diff($givenDate)->days;
+$totalDaysIncludingFraction = $totalDays + ($diff->h / 24) + ($diff->i / 1440) + ($diff->s / 86400);
+
+$totalYears = $totalDays / 365.25; // Considering leap years
+
+echo "From Epoch Time Till $date Is Approximately " . number_format($totalDays, 0) ;
+echo '<br>';
+echo "From Epoch Time Till $date Is Approximately " . number_format($totalYears, 0) ;
