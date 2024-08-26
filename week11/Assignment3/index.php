@@ -4,18 +4,25 @@
 // Assignment 3
 /*
  Needed Output
-11
-9.5
--7
+"Directory Programming/PHP Removed"
+"Directory Programming Removed"
  */
-$num1 = 11.5;
-$num2 = 9.4898;
-$num3 = -7.5;
 
-$rounded_num1 = round($num1, 0, PHP_ROUND_HALF_DOWN);
-$rounded_num2 = round($num2, 1);
-$rounded_num3 = round($num3, 0, PHP_ROUND_HALF_UP);
+function createDirectories($baseDir, $subDir) {
+    // Create base directory if it doesn't exist
+    if (!file_exists($baseDir)) {
+        mkdir($baseDir, 0755, true);
+        echo "Directory $baseDir created\n";
+    }
+    
+    $fullPath = "$baseDir/$subDir";
+    if (!file_exists($fullPath)) {
+        mkdir($fullPath, 0755, true);
+        echo "Directory $fullPath created\n";
+    }
+}
 
-echo $rounded_num1 . "\n"; 
-echo $rounded_num2 . "\n";
-echo $rounded_num3 . "\n";
+$baseDir = 'Programming';
+$subDir = 'PHP';
+
+createDirectories($baseDir, $subDir);

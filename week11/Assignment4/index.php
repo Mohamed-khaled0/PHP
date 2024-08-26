@@ -4,43 +4,26 @@
 
 /* 
 Needed Output
-Array
-(
-  [257] => int
-  [258] => boolean
-  [259] => float
-  [272] => validate_regexp
-  [277] => validate_domain
-  [273] => validate_url
-  [274] => validate_email
-  [275] => validate_ip
-  [276] => validate_mac
-  [513] => stripped
-  [514] => encoded
-  [515] => special_chars
-  [522] => full_special_chars
-  [516] => unsafe_raw
-  [517] => email
-  [518] => url
-  [519] => number_int
-  [520] => number_float
-  [523] => add_slashes
-  [1024] => callback
-)
+
+echo change_permissions("Elzero"); // This Is Directory And Only Files Allowed
+echo change_permissions("Work.docx"); // File Extension Is Not Txt
+echo change_permissions("Result.txt"); // Permissions Changed
 
 */
-
-$filters = filter_list();
-
-$filter_with_ids = [];
-
-foreach ($filters as $filter) {
-    $filter_id = filter_id($filter);
-    
-    $filter_with_ids[$filter_id] = $filter;
+function change_permissions($filePath) {
+    if (is_file($filePath)) {
+        if (pathinfo($filePath, PATHINFO_EXTENSION) === 'txt') {
+            chmod($filePath, 0700);
+            return "Permissions Changed";
+        } else {
+            return "File Extension Is Not Txt";
+        }
+    } else {
+        return "This Is Directory And Only Files Allowed";
+    }
 }
 
-echo '<pre>';
-print_r($filter_with_ids);
-echo '</pre>';
-
+// Test cases
+echo change_permissions("Elzero") . "\n"; 
+echo change_permissions("Work.docx") . "\n"; 
+echo change_permissions("Result.txt") . "\n"; 

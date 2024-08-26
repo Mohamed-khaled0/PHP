@@ -4,23 +4,27 @@
 /*
 
 Needed Output
-http://www.elzero.org
-http://elzero.org
-https://elzero.org
-https://elzero.org
+"Hello Elzero Web School"
+"Hello Elzero Web School"
+"Hello Elzero Web School"
+"Hello Elzero Web School"
 */
 
-$url1 = "http://www.elz ero.org";
-$url2 = "http://¥elzero.org";
-$url3 = "https://elzero.org";
-$url4 = "https://elzero.o¥rg";
+$file = fopen('elzero.txt', 'r');
+$line1 = fgets($file);
+$line2 = fgets($file);
+fclose($file);
+echo trim($line1) . ' ' . trim($line2) . "\n";
 
-$clean_url1 = str_replace([' ', '¥'], '', $url1);
-$clean_url2 = str_replace([' ', '¥'], '', $url2);
-$clean_url3 = str_replace([' ', '¥'], '', $url3);
-$clean_url4 = str_replace([' ', '¥'], '', $url4);
 
-echo $clean_url1 . "\n";
-echo $clean_url2 . "\n";
-echo $clean_url3 . "\n";
-echo $clean_url4 . "\n";
+$lines = file('elzero.txt');
+echo trim($lines[0]) . ' ' . trim($lines[1]) . "\n";
+
+$content = file_get_contents('elzero.txt');
+$lines = explode("\n", $content);
+echo trim($lines[0]) . ' ' . trim($lines[1]) . "\n";
+
+$file = new SplFileObject('elzero.txt');
+$line1 = $file->fgets();
+$line2 = $file->fgets();
+echo trim($line1) . ' ' . trim($line2) . "\n";
