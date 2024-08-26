@@ -7,8 +7,6 @@ echo greeting("Eman", "Female"); // Hello Miss Eman
 echo greeting("Sameh"); // Hello Sameh
 */
 
-
-
 // Write Function Content Here
 
 function greating($name ,$gender = ""){
