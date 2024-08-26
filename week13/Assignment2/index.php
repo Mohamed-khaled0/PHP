@@ -1,11 +1,15 @@
 <?php
 
 /*  Needed Output 2
-
+Array
+(
+  [site] => Array
+    (
+      [color] => blue
+      [font] => Swat
+      [layout] => boxed
+    )
 )
 
 */
-
-$friends = ["Osama", "Ahmed", "Sayed", "Ibrahim"];
-$random_friend = $friends[array_rand($friends)];
-echo $random_friend;
+setcookie("site[layout","",time()-3600);

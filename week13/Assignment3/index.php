@@ -4,18 +4,20 @@
 // Assignment 3
 /*
  Needed Output
-11
-9.5
--7
+
  */
-$num1 = 11.5;
-$num2 = 9.4898;
-$num3 = -7.5;
+setcookie("site[color", "blue", 0, "/");
+setcookie("site[font", "swat", 0, "/");
 
-$rounded_num1 = round($num1, 0, PHP_ROUND_HALF_DOWN);
-$rounded_num2 = round($num2, 1);
-$rounded_num3 = round($num3, 0, PHP_ROUND_HALF_UP);
+// Set a cookie for layout to be removed
+setcookie("site[layout", "", time() - 3600, "/");
 
-echo $rounded_num1 . "\n"; 
-echo $rounded_num2 . "\n";
-echo $rounded_num3 . "\n";
+// Display the cookies
+echo "<pre>";
+print_r($_COOKIE);
+echo "</pre>";
+
+// Check if the cookies are set correctly and display message
+if (isset($_COOKIE['site']['color']) && isset($_COOKIE['site']['font'])) {
+    echo "Your Color Is " . $_COOKIE['site']['color'] . " And Your Font Is " . $_COOKIE['site']['font'];
+}
