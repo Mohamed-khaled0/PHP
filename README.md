@@ -26,169 +26,166 @@
 
 ---
 
-## 1️⃣ **Introduction**
-#### [Codes for lessons from [001] to [005]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Intro)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Intro/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Intro/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Intro/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Intro/Assignment4)
+## 1️⃣ **Week 1: Introduction**
+#### [Codes for lessons from [001] to [005]](https://github.com/Mohamed-khaled0/PHP/tree/main/week1)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week1/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week1/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week1/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week1/Assignment4)
 
 ---
 
-## 2️⃣ **Data Types**
-#### [Codes for lessons from [006] to [012]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DataTypes/Assignment8)
+## 2️⃣ **Week 2: Variables And Constants**
+#### [Codes for lessons from [013] to [019]](https://github.com/Mohamed-khaled0/PHP/tree/main/week2)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week2/Assignment6)
 
 ---
 
-## 3️⃣ **Variables And Constants**
-#### [Codes for lessons from [013] to [019]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Variables/Assignment6)
+## 3️⃣ **Week 3: Data Types**
+#### [Codes for lessons from [006] to [012]](https://github.com/Mohamed-khaled0/PHP/tree/main/week3)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week3/Assignment8)
 
 ---
 
-## 4️⃣ **Operators**
-#### [Codes for lessons from [020] to [029]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Operators/Assignment8)
+## 4️⃣ **Week 4: Operators**
+#### [Codes for lessons from [020] to [029]](https://github.com/Mohamed-khaled0/PHP/tree/main/week4)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week4/Assignment8)
 
 ---
 
-## 5️⃣ **If Condition, Switch**
-#### [Codes for lessons from [030] to [036]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Conditions/Assignment8)
+## 5️⃣ **Week 5: If Condition, Switch**
+#### [Codes for lessons from [030] to [036]](https://github.com/Mohamed-khaled0/PHP/tree/main/week5)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week5/Assignment8)
 
 ---
 
-## 6️⃣ **Loop**
-#### [Codes for lessons from [037] to [042]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment8)
-- [Assignment 9](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment9)
-- [Assignment 10](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Loops/Assignment10)
+## 6️⃣ **Week 6: Loop**
+#### [Codes for lessons from [037] to [042]](https://github.com/Mohamed-khaled0/PHP/tree/main/week6)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment8)
+- [Assignment 9](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment9)
+- [Assignment 10](https://github.com/Mohamed-khaled0/PHP/tree/main/week6/Assignment10)
 
 ---
 
-## 7️⃣ **Function**
-#### [Codes for lessons from [043] to [052]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment8)
-- [Assignment 9](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Functions/Assignment9)
+## 7️⃣ **Week 7: Function**
+#### [Codes for lessons from [043] to [052]](https://github.com/Mohamed-khaled0/PHP/tree/main/week7)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment8)
+- [Assignment 9](https://github.com/Mohamed-khaled0/PHP/tree/main/week7/Assignment9)
 
 ---
 
-## 8️⃣ **String Built-In Functions**
-#### [Codes for lessons from [053] to [062]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Strings/Assignment7)
+## 8️⃣ **Week 8: String Built-In Functions**
+#### [Codes for lessons from [053] to [062]](https://github.com/Mohamed-khaled0/PHP/tree/main/week8)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week8/Assignment7)
 
 ---
 
-## 9️⃣ **Array Built-In Functions**
-#### [Codes for lessons from [063] to [072]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment7)
-- [Assignment 8](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment8)
-- [Assignment 9](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment9)
-- [Assignment 10](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment10)
-- [Assignment 11](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment11)
-- [Assignment 12](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment12)
-- [Assignment 13](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment13)
-- [Assignment 14](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment14)
-- [Assignment 15](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment15)
-- [Assignment 16](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment16)
-- [Assignment 17](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment17)
-- [Assignment 18](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/Arrays/Assignment18)
+## 9️⃣ **Week 9: Array Built-In Functions**
+#### [Codes for lessons from [063] to [072]](https://github.com/Mohamed-khaled0/PHP/tree/main/week9)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment8)
+- [Assignment 9](https://github.com/Mohamed-khaled0/PHP/tree/main/week9/Assignment9)
 
 ---
 
-## 🔟 **Math Functions And Filters**
-#### [Codes for lessons from [073] to [081]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/MathFilters/Assignment6)
+## 🔟 **Week 10: Super Globals**
+#### [Codes for lessons from [073] to [084]](https://github.com/Mohamed-khaled0/PHP/tree/main/week10)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment7)
+- [Assignment 8](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment8)
+- [Assignment 9](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment9)
+- [Assignment 10](https://github.com/Mohamed-khaled0/PHP/tree/main/week10/Assignment10)
 
 ---
 
-## 1️⃣1️⃣ **File System**
-#### [Codes for lessons from [082] to [091]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment5)
-- [Assignment 6](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment6)
-- [Assignment 7](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/FileSystem/Assignment7)
+## 1️⃣1️⃣ **Week 11: File System**
+#### [Codes for lessons from [082] to [091]](https://github.com/Mohamed-khaled0/PHP/tree/main/week11)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment5)
+- [Assignment 6](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment6)
+- [Assignment 7](https://github.com/Mohamed-khaled0/PHP/tree/main/week11/Assignment7)
 
 ---
 
-## 1️⃣2️⃣ **Date & Time**
-#### [Codes for lessons from [092] to [097]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime/Assignment4)
-- [Assignment 5](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/DateTime/Assignment5)
+## 1️⃣2️⃣ **Week 12: Date & Time**
+#### [Codes for lessons from [092] to [097]](https://github.com/Mohamed-khaled0/PHP/tree/main/week12)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week12/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week12/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week12/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week12/Assignment4)
+- [Assignment 5](https://github.com/Mohamed-khaled0/PHP/tree/main/week12/Assignment5)
 
 ---
 
-## 1️⃣3️⃣ **Sessions & Cookies**
-#### [Codes for lessons from [098] to [105]](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/SessionsCookies)
-- [Assignment 1](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/SessionsCookies/Assignment1)
-- [Assignment 2](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/SessionsCookies/Assignment2)
-- [Assignment 3](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/SessionsCookies/Assignment3)
-- [Assignment 4](https://github.com/Mohamed-khaled0/Elzero-PHP/tree/main/SessionsCookies/Assignment4)
+## 1️⃣3️⃣ **Week 13: Sessions & Cookies**
+#### [Codes for lessons from [098] to [105]](https://github.com/Mohamed-khaled0/PHP/tree/main/week13)
+- [Assignment 1](https://github.com/Mohamed-khaled0/PHP/tree/main/week13/Assignment1)
+- [Assignment 2](https://github.com/Mohamed-khaled0/PHP/tree/main/week13/Assignment2)
+- [Assignment 3](https://github.com/Mohamed-khaled0/PHP/tree/main/week13/Assignment3)
+- [Assignment 4](https://github.com/Mohamed-khaled0/PHP/tree/main/week13/Assignment4)
 
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or find bugs, please open an issue or submit a pull request. 
 
 ---
 
