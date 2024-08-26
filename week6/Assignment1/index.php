@@ -2,8 +2,21 @@
 
 /* Assignment 1
 Needed Output
-Codes for lessons from [092] to [097]
-
-
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
 */
 
+
+$index = 10;
+
+for ($i=$index; $i>=1 ; $i--){
+  echo "$i<br>";
+};
